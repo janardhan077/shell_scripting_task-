@@ -4,3 +4,13 @@
          echo $i
  done
 ~             
+#!/bin/bash
+#
+#
+#
+#
+ for car in audi bmw porche benz bugati
+ do
+         echo $car
+ done
+~            
